@@ -1,1 +1,1 @@
-Spring XML configuration using xollection types
+Spring XML configuration using collection types
